@@ -1,1 +1,2 @@
 # Initiation-a-la-Recherche-ECDSA-et-Applications
+Ce répertoire présente mon projet d'initiation à la recherche réalisé pendant mon Master 1 en Cryptologie et Sécurité de l'Information à l'Université de Limoges. Il met en lumière mon analyse approfondie de l'algorithme ECDSA (Elliptic Curve Digital Signature Algorithm) et son rôle crucial dans la sécurisation des transactions de cryptomonnaies. Ce projet explore les principes fondamentaux de l'ECDSA, ses applications pratiques dans le domaine des cryptomonnaies, et les défis de sécurité associés.
